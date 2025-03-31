@@ -10,7 +10,7 @@ public class vet {
     int qtd = read.nextInt();
 
     double numeros [] = new double[qtd];
-    double saldo = 0, valor = 0, media = 0;
+    double saldo = 0, media = 0;
     int contador = 0;
 
     while (contador < qtd) {
