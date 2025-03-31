@@ -20,6 +20,17 @@ public class vet {
         saldo += numeros [contador];
         contador += 1;
     }
-    System.out.println("Saldo: " + saldo);
+     
+    media = saldo / contador;
+    contador = 0;
+
+    System.out.println("Os valores são: ");
+    while (contador < qtd) {
+        System.out.println(numeros[contador]);
+        contador ++;
+    }
+
+    System.out.println(String.format("A média é %.2f", media));
+
    } 
 }
