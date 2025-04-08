@@ -67,8 +67,8 @@ public class Cadastro {
     }
     // Método principal
     public static void main(String[] args) {
-        Cadastro app = new Cadastro();
-        app.menu();
+        Cadastro sc = new Cadastro();
+        sc.menu();
     }
 }
 

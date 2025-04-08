@@ -22,7 +22,7 @@ public class quiz {
        {"Qual palavra-chave é usada para criar um laço de repetição em Java?", "for"},
        {"Qual estrutura de repetição é usada para executar um bloco de código enquanto uma condição for verdadeira?", "while"},
        {"Qual palavra-chave é usada para sair de um loop antes do término normal?", "break"},
-       {"Qual tipo de dado é usado para armazenar caracteres em Java?", "char"},
+       {"Qual tipo de dado é usado para armazenar um único caracter em Java?", "char"},
        {"Qual símbolo é usado para comentar uma linha em Java?", "//"},
    };
    
